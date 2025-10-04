@@ -26,7 +26,6 @@ theme = TokyoNight Storm
 term = xterm-256color
 font-codepoint-map = U+E000-U+F8FF=JetBrainsMono Nerd Font
 
-background-opacity=0.85
 # window-padding-x = 2
 #
 # # Spacing around the equals sign does not matter.
